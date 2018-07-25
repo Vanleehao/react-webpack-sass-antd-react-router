@@ -1,0 +1,13 @@
+// @import '~antd/dist/antd.css';
+
+#app, .router {
+    height: 100%;
+    width: 100%;
+}
+.container-title {
+    line-height: 30px;
+    background: #eee;
+    h1 {
+        color: red;
+    }
+}
